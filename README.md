@@ -68,8 +68,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is unlicensed.
 
-## Acknowledgments
-
-- Special thanks to [source-of-dataset](link-to-dataset) for providing the labeled dataset used for training.
-
 Feel free to customize this README file based on the specifics of your project.
